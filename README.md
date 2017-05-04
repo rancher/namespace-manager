@@ -1,7 +1,7 @@
 namespace-manager
 ========
 
-A microservice that does micro things.
+Simple CLI for managing Kubernetes namespaces and associated user roles.
 
 ## Building
 
